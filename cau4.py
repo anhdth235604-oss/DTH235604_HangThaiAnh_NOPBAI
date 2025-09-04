@@ -1,1 +1,0 @@
-print("Chào các bạn`")
